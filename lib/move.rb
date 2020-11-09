@@ -8,8 +8,8 @@ end
 
 def input_to_index (user's input)
 end
-  
-  
+
+
 
 def move
   array[index] = value
