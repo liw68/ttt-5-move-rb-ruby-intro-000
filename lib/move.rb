@@ -10,5 +10,4 @@ def move
   array[index] = value
 end
 
-move(board, 0, "X")  
-
+move(board, 0, "X")
