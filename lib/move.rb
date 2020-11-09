@@ -10,8 +10,6 @@ def input_to_index (user)
   user.to_i - 1
 end
 
-
-
 def move
   array[index] = value
 end
